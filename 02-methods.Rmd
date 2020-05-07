@@ -59,19 +59,66 @@
 | PSCQ | Parenting Stress Covid-19 Questionnaire - Parent Report Form | his questionnaire consists of two blocks, separating the evaluation of parental stress prior to COVID-19 with 4 items, and during COVID-19 with 6 items. The questionnaire asks participants to rate on a scale of 1-5 how much they agree with each item related to parental stress. | Made by BABLab; adapted from the Parental Stress Scale (Berry & Jones, 1995), COVID-19 Adolescent Symptom & Psychological Experience Questionnaire- Parent (Ladouceur, 2020), and the Adolescent Social Connection & Coping During COVID-19 Questionnaire (Pfiefer, 2020)
 | RDAS | Revised Dyadic Adjustment Scale | Used to assess the quality of the parents' relationship (if applicable). 14-item self report questionnaire that assesses seven dimensions of couple relationships within three overarching categories including "Consensus" in decision making, values and affection, "Satisfaction" in the relationship with respect to stability and conflict regulation, and "Cohesion" as seen through activities and discussion. Respondents rate certain aspects of their relationship on a 5 or 6 point scale. | (Busby et al., 1995)
 
-### Sleep Habits
-
-| Title        | Name           | Description  | Reference  |
-| ------------ |--------------- | ------------ | ---------- |
-| ASHQ | Adolescent Sleep Habits Questionnaire- Parent Proxy Form | This 54 item parent-rated questionnaire assesses behaviors most commonly associated with sleep difficulties in adolescents. This questionnaire focuses on the frequency of such sleep behaviors within the previous two weeks. | (Grant, 2005)
-| CSHQ | Child Sleep Habits Questionnaire- Parent Proxy Form | This 45 item parent-rated questionnaire assesses behaviors most commonly associated with sleep difficulties in children. This questionnaire focuses on the frequency of such sleep behaviors during the most recent week. | (Owens et al., 2000)
-
 ### Threat Information
 
 | Title        | Name           | Description  | Reference  |
 | ------------ |--------------- | ------------ | ---------- |
-| SICS | Sources of Information about COVID-19 Scale- Parent Proxy Report | his 9-item questionnaire is designed to evaluate the sources of information in which children are receiving about COVID-19. The scale lists items related to parent threat information, media, school, friends and asks participants to rate on a scale of 1-5 how true each item about the source of information their child receives. | Made by BABLab; adapted from the Sources of Information about Swine Flu Scale (Remmerswaal & Muris, 2011)
+| SOI | Sources of Information about COVID-19 Scale- Parent Proxy Report | his 9-item questionnaire is designed to evaluate the sources of information in which children are receiving about COVID-19. The scale lists items related to parent threat information, media, school, friends and asks participants to rate on a scale of 1-5 how true each item about the source of information their child receives. | Made by BABLab; adapted from the Sources of Information about Swine Flu Scale (Remmerswaal & Muris, 2011)
 
 
 ## Procedure
 
+### Recruitment
+
+Participants were recruited online via postings on Craigslist and NextDoor and digital marketing efforts on the LA Virtual Camp Fair Website. Postings were made on social media, via Facebook paid advertisement, in Facebook parent forums, Instagram, LinkedIn, and Twitter. Recruitment efforts also included emailing listservs and community stakeholders/research collaborators for distribution, contacting local school boards, and creating press releases for local (community postings on Patch) news distribution.
+
+The following materials were used:
+
+![<!--- Flyer --->](images/pup_flyer.png)
+
+
+Participants who enroll in the study will be placed in a raffle to win one of twenty $100 Visa gift cards by providing an email address following completion of the study. Participants do not have to complete or enroll in the study to go in the draw to receive the gift card.
+
+-------------
+
+### Timing 
+
+The survey takes approximately 40 minutes to complete, including 5 minutes of child self-report following the Written Response COVID-19 prompt.
+
+-----------------------
+
+### Questionnaire Order
+
+1. Participant
+2. PANAS (1st assessment)
+3. COVID-19 Information
+4. FIVE
+5. SOI
+6. GMF
+7. PCRQ
+8. PSCQ
+9. BIQ
+10. PBQ
+11. TESI
+12. Demographics
+13. STAI
+14. RCADS
+15. PANAS (2nd assessment)
+16. Parental Written Response
+17. PANAS (3rd assessment)
+18. Child Written Response
+(if applicable, #19-21)
+19. Child #2 Written Response
+20. Child #3 Written Response
+21. Child #4 Written Response
+22. Resources
+
+------------
+
+### Attention Checks
+
+1. FIVE
+2. PCRQ
+3. PBQ
+4. TESI
+5. RCADS
