@@ -21,7 +21,7 @@ Parenting, COVID-19, pandemic, stress, children
 
 -----------
 
-# Background 
+## Background 
 
 The effect of mass traumatic events has been shown to be extremely impactful to psychological health. Mass trauma experiences can result in a number of acute and chronic stress reactions, which may lead to a number of longer-term poor mental health outcomes (Chriman & Dougherty, 2014). More specifically, previous outbreaks have been shown to cause tremendous impacts on fear, anxiety, depression, posttraumatic stress, and subjective well being (Cheng & Cheuong, 2005; Perrin et al., 2009; Wu et al., 2005). While a large majority of the population may experience negative impacts on their mental health, caregivers and children may carry a specific set of challenges following such traumatic events. 
 
@@ -31,7 +31,7 @@ Although each traumatic event may pose its own unique challenges and impacts, th
 
 -----------
 
-# Specific Aims
+## Specific Aims
 
 The proposed study will assess the impacts of COVID-19 on caregiver-child relationships and mental health outcomes for children. This study has 4 specific aims:
 
