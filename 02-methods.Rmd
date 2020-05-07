@@ -72,3 +72,6 @@
 | ------------ |--------------- | ------------ | ---------- |
 | SICS | Sources of Information about COVID-19 Scale- Parent Proxy Report | his 9-item questionnaire is designed to evaluate the sources of information in which children are receiving about COVID-19. The scale lists items related to parent threat information, media, school, friends and asks participants to rate on a scale of 1-5 how true each item about the source of information their child receives. | Made by BABLab; adapted from the Sources of Information about Swine Flu Scale (Remmerswaal & Muris, 2011)
 
+
+## Procedure
+
