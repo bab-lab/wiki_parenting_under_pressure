@@ -1,0 +1,145 @@
+---
+title: "03-references"
+author: "Kristen"
+date: "5/7/2020"
+output: html_document
+---
+
+# References 
+
+
+Adler, N. E., Epel, E. S., Castellazzo, G., & Ickovics, J. R. (2000).
+  Relationship of subjective and objective social status with psychological
+  and physiological functioning:Preliminary data in healthy, White women.
+  Health Psychology, 19(6), 586-592.
+
+Biringen, Z., Robinson, J. & Emde, R. (1998). The Emotional Availability
+  Scales (3rd ed.). Retrieved from www.emotionalavailability.com
+
+Berry, J. O., & Jones, W. H. (1995). The Parental Stress Scale: Initial
+  psychometric evidence. Journal of Social and Personal Relationships, 12,
+  463-472.
+
+Cheng, C., & Cheung, M. W. (2005). Psychological responses to outbreak of
+  severe acute respiratory syndrome: a prospective, multiple time‐point
+  study. Journal of Personality, 73(1), 261-285.
+
+Chorpita, B. F., Yim, L., Moffitt, C., Umemoto, L. A., & Francis, S. E. (2000). Assessment of 
+	symptoms of DSM-IV anxiety and depression in children: A revised child anxiety and 
+	depression scale. Behaviour research and therapy, 38(8), 835-855.
+
+Chrisman, A. K., & Dougherty, J. G. (2014). Mass trauma: Disasters, terrorism, and war. Child 
+	and Adolescent Psychiatric Clinics, 23(2), 257-279.
+
+Ehenreich-May, J. (2020). Fear of Illness and Virus Evaluation (FIVE) – Parent Report Form 
+	[Measurement instrument]. Retrieved from 
+	https://drive.google.com/drive/u/0/folders/1RhHt77XQzItmpw_yGAteILlMNIGpj5pU
+
+Ehenreich-May, J. (2020). Fear of Illness and Virus Evaluation (FIVE) – Adult Report Form 
+	[Measurement instrument]. Retrieved from 
+	https://drive.google.com/drive/u/0/folders/1RhHt77XQzItmpw_yGAteILlMNIGpj5pU
+
+Furman W, Buhrmester D. The Network of Relationships Inventory: Behavioral Systems 
+	Version. Int J Behav Dev. 2009;33(5):470–478. doi:10.1177/0165025409342634
+
+Gewirtz, A., Forgatch, M., & Wieling, E. (2008). Parenting practices as potential mechanisms for 
+	child adjustment following mass trauma. Journal of Marital and Family Therapy, 34(2), 
+	177-192.
+
+Grant, M.L. & Kothare, S. (2005). Older Child/Adolescent Sleep Habits Questionnaire- Parent 
+	Report [Measurement instrument]. Retrieved from http://www.childrenshospital.org/-
+	/media/Centers-and-Services/Programs/O_Z/Pediatric-Sleep-Disorders-Center/Research-
+	VersionParentsAdolescentSHQLC.ashx?la=en&hash=2CAB880BC93A221FB31BD6BA
+	DE3C7B6313D139AB
+
+Guimond, A. B., Wilcox, M. J., & Lamorey, S. G. (2008). The early intervention parenting self-
+	Efficacy Scale (EIPSES) scale construction and initial psychometric evidence. Journal of 
+	early intervention, 30(4), 295-320.
+
+Ladouceur, C.D. (2020). COVID-19 Adolescent Symptom & Psychological Experience (CASPE)- 
+	Parent Questionnaire [Measurement instrument]. Retrieved from https://osf.io/hu2k9/
+
+Luyten, P., Mayes, L. C., Nijssens, L., & Fonagy, P. (2017). The parental reflective functioning 
+	questionnaire: Development and preliminary validation. PLOS ONE, 12(5), e0176218. 
+	doi: 10.1371/journal.pone.0176218
+
+Ollendick, T. H. (1983). Reliability and validity of the revised fear survey schedule for children 
+	(FSSC-R). Behaviour research and therapy, 21(6), 685-692.
+
+Owens, J. A., Spirito, A., & McGuinn, M. (2000). The Children's Sleep Habits Questionnaire 
+	(CSHQ): psychometric properties of a survey instrument for school-aged children. Sleep-
+	New York-, 23(8), 1043-1052.
+
+Pennebaker, J. W. (1997). Writing about emotional experiences as a therapeutic 
+	process. Psychological science, 8(3), 162-166.
+
+Pereira, A. I., Barros, L., Roberto, M. S., & Marques, T. (2017). Development of the Parent 
+	Emotion Regulation Scale (PERS): Factor Structure and Psychometric Qualities. Journal 
+	of Child and Family Studies, 26(12), 3327-3338.
+
+Perrin, P. C., McCabe, O. L., Everly, G. S., & Links, J. M. (2009). Preparing for an influenza 
+	pandemic: mental health considerations. Prehospital and disaster medicine, 24(3), 223-
+	230.
+
+Pfefferbaum, B. J., Devoe, E. R., Stuber, J., Schiff, M., Klein, T. P., & Fairbrother, G. (2005). 
+	Psychological impact of terrorism on children and families in the United States. Journal 
+	of aggression, maltreatment & trauma, 9(3-4), 305-317.
+
+Pfiefer, J. (2020). Adolescent Social Connection & Coping During COVID Questionnaire (ASC)
+	[Measurement instrument]. Retrieved from https://osf.io/jakg5/
+
+Pfiefer, J. (2020). Combined COVID Health Emotional Lifestyle Changes[Measurement 
+	instrument]. Retrieved from https://osf.io/c2z8k/
+
+Pfiefer, J. (2020). COVID Lifestyle Changes [Measurement instrument]. Retrieved from 
+	https://osf.io/wqmda/
+
+Pfiefer, J. & Lewis, J. (2020). Modified KidCOPE [Measurement instrument]. Retrieved from 
+	https://osf.io/wcgj8/
+
+Phillips, D., Scheibelhut, L., & Prince, S. (2003, April). Children’s responses to the terrorist 
+	attacks of September 11th: An exploratory study. In J. Lawrence Aber & D. Phillips 
+	(Chairs), The aftermath of September 11th, 2001: Developmental effects and policy 
+	implications. Symposium conducted at the Biennial Meetings of the Society for Research 
+	in Child Development, Tampa, FL. 
+Pianta, R.C. (1992). Child-Preant Relationship Scale (CPRS) [Measurement instrument]. 
+	Retrieved from ttps://curry.virginia.edu/faculty-research/centers-labs-
+	projects/castl/measures-developed-robert-c-pianta-phd
+
+Remmerswaal, D., & Muris, P. (2011). Children's fear reactions to the 2009 Swine Flu 
+	pandemic: The role of threat information as provided by parents. Journal of anxiety 
+	disorders, 25(3), 444-449.
+
+Svebak, S. (1993). The development of the tension and effort stress inventory (TESI). Advances 
+	in reversal theory, 189-204.
+
+Waters, E. (1995). Appendix A: The attachment Q-set (version 3.0). Monographs of the society 
+	for research in child development, 234-246.
+
+Watson, D., Clark, L. A., & Tellegen, A. (1988). Development and validation of brief measures 
+	of positive and negative affect: the PANAS scales. Journal of personality and social 
+	psychology, 54(6), 1063.
+
+Wu, K. K., Chan, S. K., & Ma, T. M. (2005). Posttraumatic stress, anxiety, and depression in 
+	survivors of severe acute respiratory syndrome (SARS). Journal of Traumatic Stress: 
+	Official Publication of The International Society for Traumatic Stress Studies, 18(1), 39-
+	42.
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 

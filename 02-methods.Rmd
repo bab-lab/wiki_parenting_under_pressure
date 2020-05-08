@@ -70,7 +70,7 @@
 
 ### Recruitment
 
-Participants were recruited online via postings on Craigslist and NextDoor and digital marketing efforts on the LA Virtual Camp Fair Website. Postings were made on social media, via Facebook paid advertisement, in Facebook parent forums, Instagram, LinkedIn, and Twitter. Recruitment efforts also included emailing listservs and community stakeholders/research collaborators for distribution, contacting local school boards, and creating press releases for local (community postings on Patch) news distribution.
+Participants were recruited online via postings on Craigslist and NextDoor and digital marketing efforts on the [LA Virtual Camp Fair Website](https://www.vcampfair.com/brain-and-body-lab-ucla.html). Postings were made on social media, via Facebook paid advertisement, in Facebook parent forums, Instagram, LinkedIn, and Twitter. Recruitment efforts also included emailing listservs and community stakeholders/research collaborators for distribution, contacting local school boards, and creating press releases for local (community postings on Patch) news distribution.
 
 The following materials were used:
 
@@ -90,28 +90,27 @@ The survey takes approximately 40 minutes to complete, including 5 minutes of ch
 ### Questionnaire Order
 
 1. Participant
-2. PANAS (1st assessment)
-3. COVID-19 Information
-4. FIVE
-5. SOI
-6. GMF
-7. PCRQ
-8. PSCQ
-9. BIQ
-10. PBQ
-11. TESI
-12. Demographics
-13. STAI
-14. RCADS
-15. PANAS (2nd assessment)
-16. Parental Written Response
-17. PANAS (3rd assessment)
-18. Child Written Response
-(if applicable, #19-21)
-19. Child #2 Written Response
-20. Child #3 Written Response
-21. Child #4 Written Response
-22. Resources
+2. COVID-19 Information
+3. FIVE
+4. SOI
+5. GMF
+6. PCRQ
+7. PSCQ
+8. BIQ
+9. PBQ
+10. TESI
+11. Demographics
+12. STAI
+13. RCADS
+14. PANAS (2nd assessment)
+15. Parental Written Response
+16. PANAS (3rd assessment)
+17. Child Written Response
+(if applicable, #18-20)
+18. Child #2 Written Response
+19. Child #3 Written Response
+20. Child #4 Written Response
+21. Resources
 
 ------------
 
