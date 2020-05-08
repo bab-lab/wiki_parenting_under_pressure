@@ -11,6 +11,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Introduction
 
+![<!--- Flyer --->](images/pup_header.png)
+
 The recent COVID-19 pandemic has caused tremendous pressure on caregivers, children, and families on a global scale. Previous research investigating the impacts of traumatic events on caregiver child relationships has shown the importance of maintaining positive caregiver child relationships in order to buffer the distress of the child. Despite the fact that traumatic events may present several challenges that potentially strain caregiver child relationships, parental buffering may alleviate anxiety and stress. While there is a breadth of existing research that encapsulates the benefits of strong caregiver child relationships during troubled times, little research exists on the transfer of parent threat information to children and its implications in the child's heightened fear and anxiety. Furthermore, few studies have surfaced regarding the larger emotional and behavioral impacts of COVID-19 on caregivers and children alike. As a traumatic experience, COVID-19 poses unique threats to families due its impacts in social distancing and self-isolation. Research in this topic will be integral to informing interventions that may diminish the negative effects of this traumatic experience for the future. 
 
 This study seeks to explore the ways in which the COVID-19 outbreak has specifically influenced caregivers, children, and families. In determining children's largest sources of information about COVID-19, we will assess the impacts of parent threat information on the child's fear about illness and contamination, and the larger implications for the child's anxiety. Moreover, we will evaluate the impacts of the COVID-19 outbreak on parent-child relationships and parental stress, focusing on the potential ways in which caregivers are buffering their child's stress during this period. 
@@ -18,6 +20,12 @@ This study seeks to explore the ways in which the COVID-19 outbreak has specific
 **Keywords**
 
 Parenting, COVID-19, pandemic, stress, children
+
+-----------
+
+## Summary
+
+This study will be available in both English and Spanish. The study will gather both qualitative and quantitative data from parents and their children through an anonymous online questionnaire. The target population for this study will be parents with children aged 6-17 years old. The online survey is a mixed methods design and will include a multitude of questionnaires related to fear, anxiety, sleep, and parent child relationships prior to (retrospectively reported) and during the context of the COVID-19 outbreak. 
 
 -----------
 
