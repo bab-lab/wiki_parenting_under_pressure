@@ -65,6 +65,9 @@
 | ------------ |--------------- | ------------ | ---------- |
 | SOI | Sources of Information about COVID-19 Scale- Parent Proxy Report | his 9-item questionnaire is designed to evaluate the sources of information in which children are receiving about COVID-19. The scale lists items related to parent threat information, media, school, friends and asks participants to rate on a scale of 1-5 how true each item about the source of information their child receives. | Made by BABLab; adapted from the Sources of Information about Swine Flu Scale (Remmerswaal & Muris, 2011)
 
+*Note: In order to reach a wider audience, all questionnaires were translated into Spanish by members of our research team. These translations were then approved by native speakers of the language.*
+
+-----------
 
 ## Procedure
 
@@ -102,9 +105,9 @@ The survey takes approximately 40 minutes to complete, including 5 minutes of ch
 11. Demographics
 12. STAI
 13. RCADS
-14. PANAS (2nd assessment)
+14. PANAS (Pre- assessment)
 15. Parental Written Response
-16. PANAS (3rd assessment)
+16. PANAS (Post- assessment)
 17. Child Written Response
 (if applicable, #18-20)
 18. Child #2 Written Response
