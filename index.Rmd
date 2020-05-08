@@ -12,8 +12,46 @@ github-repo: rstudio/bookdown-demo
 description: "This is the Wiki for the Parenting Under Pressure"
 ---
 
+# Introduction
 
+![<!--- Flyer --->](images/pup_header.png)
 
+The recent COVID-19 pandemic has caused tremendous pressure on caregivers, children, and families on a global scale. Previous research investigating the impacts of traumatic events on caregiver child relationships has shown the importance of maintaining positive caregiver child relationships in order to buffer the distress of the child. Despite the fact that traumatic events may present several challenges that potentially strain caregiver child relationships, parental buffering may alleviate anxiety and stress. While there is a breadth of existing research that encapsulates the benefits of strong caregiver child relationships during troubled times, little research exists on the transfer of parent threat information to children and its implications in the child's heightened fear and anxiety. Furthermore, few studies have surfaced regarding the larger emotional and behavioral impacts of COVID-19 on caregivers and children alike. As a traumatic experience, COVID-19 poses unique threats to families due its impacts in social distancing and self-isolation. Research in this topic will be integral to informing interventions that may diminish the negative effects of this traumatic experience for the future. 
+
+This study seeks to explore the ways in which the COVID-19 outbreak has specifically influenced caregivers, children, and families. In determining children's largest sources of information about COVID-19, we will assess the impacts of parent threat information on the child's fear about illness and contamination, and the larger implications for the child's anxiety. Moreover, we will evaluate the impacts of the COVID-19 outbreak on parent-child relationships and parental stress, focusing on the potential ways in which caregivers are buffering their child's stress during this period. 
+
+**Keywords**
+
+Parenting, COVID-19, pandemic, stress, children
+
+-----------
+
+## Summary
+
+This study will be available in both English and Spanish. The study will gather both qualitative and quantitative data from parents and their children through an anonymous online questionnaire. The target population for this study will be parents with children aged 6-17 years old. The online survey is a mixed methods design and will include a multitude of questionnaires related to fear, anxiety, sleep, and parent child relationships prior to (retrospectively reported) and during the context of the COVID-19 outbreak. 
+
+-----------
+
+## Background 
+
+The effect of mass traumatic events has been shown to be extremely impactful to psychological health. Mass trauma experiences can result in a number of acute and chronic stress reactions, which may lead to a number of longer-term poor mental health outcomes (Chriman & Dougherty, 2014). More specifically, previous outbreaks have been shown to cause tremendous impacts on fear, anxiety, depression, posttraumatic stress, and subjective well being (Cheng & Cheuong, 2005; Perrin et al., 2009; Wu et al., 2005). While a large majority of the population may experience negative impacts on their mental health, caregivers and children may carry a specific set of challenges following such traumatic events. 
+
+Mass traumatic events disrupt a system of care and security, which may largely impact family relationships (Gerwitz et al., 2008). Not only are children particularly vulnerable to the threats posed by fearful events and subsequent pervasive media coverage (Pfefferbaum et al., 2005), but previous research in the context of terror attacks has shown that children are also largely affected by negative parental reactions to such events (Phillips et al., 2003). Negative parental reactions, which may root from a caregiver's own concerns about health, job security, their child's safety, was found to be associated with higher distress in children (Phillips et al., 2003). 
+
+Although each traumatic event may pose its own unique challenges and impacts, the impact of parent action to child outcome has been displayed in previous research regarding pandemics. Literature on the 2009 Swine Flu pandemic has assessed the role of parent threat information and its impacts on child fear of the pandemic, highlighting the significant relationship between parental fear of the disease and its transmission to child fear through parental sources of information (Remmerswaal & Muris, 2011). 
+
+-----------
+
+## Specific Aims
+
+The proposed study will assess the impacts of COVID-19 on caregiver-child relationships and mental health outcomes for children. This study has 4 specific aims:
+
+(1) Determine the impacts of COVID-19 on caregiver-child relationships and parental stress.
+(2) Identify whether the transfer of parent threat information about COVID-19 is associated with higher fear and anxiety in children.
+(3) Determine whether parental buffering actions during COVID-19 can moderate the association between parent threat information and poorer mental health outcomes in children.
+(4) Establish underlying emotional themes within qualitative responses detailing COVID-19 experiences within the family unit.
+
+We hypothesize that parents who engage with more threat-related media and less buffering activities will have higher levels of parenting stress and children with higher levels of distress. 
 
 
 ```{r include=FALSE}
