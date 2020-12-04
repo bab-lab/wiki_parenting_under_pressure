@@ -1,0 +1,15 @@
+
+# Analysis
+
+## Mixed Methods 
+
+### Preregistration
+
+![<!--- Mixed Methods Preregistration --->](images/qual_preregistration_QR.png)
+
+
+### Preprint 
+
+![<!--- Mixed Methods Preprint --->](images/qual_preprint_QR.png)
+
+------------
