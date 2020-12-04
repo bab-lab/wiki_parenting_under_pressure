@@ -1,0 +1,45 @@
+
+# Contributions
+
+## General
+
+| Name        | Role  |
+| ------ |-------------------- |
+| Bridget Callaghan | Study conception, design, planning, supervision 
+| Kristen Chu | Study conception, design, planning, implementation, data cleaning, data analysis, documentation creation
+| Chloe Schwartz| Study conception, Design, planning, implementation, data cleaning, data analysis, documentation creation 
+| Emily Towner | Study conception, design, planning, implementation, data cleaning, data analysis
+| Grant Grech | Study translation, piloting, REDCap questionnaire entry, recruitment 
+| Daisy Ramirez | Study translation, piloting, REDCap questionnaire entry, recruitment 
+| Nicole Fonacier | Study translation, piloting, REDCap questionnaire entry, recruitment 
+| Aileen Gozali | Implementation, piloting 
+| Danielle Ladensack | Implementation, piloting 
+| Ananya Eervani | Study translation 
+| Alyssa Wieand | REDCap questionnaire entry 
+| Reese Wix | REDCap questionnaire entry 
+| Alyssa Ortega | REDCap questionnaire entry 
+| Michael To | REDCap questionnaire entry 
+
+-----------
+
+## Projects/Papers
+
+### PUP Mixed Methods 
+
+| Name        | Role  |
+| ------ |-------------------- |
+| Bridget Callaghan | Supervision, data analysis, writing, editing
+| Kristen Chu | Data analysis, writing, editing, preregistration, ISDP 2020 Poster
+| Chloe Schwartz| Data analysis, editing
+| Emily Towner | Data analysis
+
+### PUP Quantitative
+
+| Name        | Role  |
+| ------ |-------------------- |
+| Bridget Callaghan | Supervision, writing, editing
+| Chloe Schwartz| Data analysis, writing, editing preregistration, ISDP 2020 Poster
+| Kristen Chu | Data analysis, editing
+| Emily Towner | Data analysis
+
+------------
