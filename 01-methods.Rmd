@@ -27,7 +27,7 @@ covid_objective | COVID-19 Objective | This questionnaire identifies health chan
 | Title        |  Name       |Description  | Reference  |
 | ------- |----------- | -------------------- | -------- |
 | RCADS--P | Revised Children's Anxiety and Depression Scale--Parent Proxy | This 47 item questionnaire contains subscales of separation anxiety disorder, social phobia, panic disorder, low mood, obsessive compulsive disorder, and generalized anxiety disorder. The scale asks participants to rate how often their child experiences each item. | (Chorpita et al., 2000)
-| STAI | State-Trait Anxiety Inventory-Parent Self-Report | This Inventory contains two blocks, 20 items detailing state anxiety and 20 items detailing trait anxiety. The inventory asks participants to rate how often they feel each item, in either the context of general feelings or how the participant feels currently, to assess both state and trait anxiety. | (Spielberger et al., 1983)
+| STAI | Shortened State-Trait Anxiety Inventory-Parent Self-Report | This Inventory contains a shortened State-Trait Anxiety Inventory, with 6 total items detailing state anxiety. The inventory asks participants to rate how often they feel each item, in the context of how the participant feels currently. | (Spielberger et al., 1983)
 
 ### Early Life Stress
 
